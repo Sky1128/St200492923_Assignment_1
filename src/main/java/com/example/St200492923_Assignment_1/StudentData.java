@@ -1,4 +1,4 @@
-package com.example.demo1;
+package com.example.St200492923_Assignment_1;
 import javafx.scene.image.Image;
 
 
