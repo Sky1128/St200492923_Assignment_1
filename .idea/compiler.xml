@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Sky_200492923_Assignment1" />
+        <module name="St200492923_Assignment_1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Sky_200492923_Assignment1" target="17" />
+      <module name="St200492923_Assignment_1" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
